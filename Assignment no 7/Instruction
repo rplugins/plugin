@@ -1,0 +1,11 @@
+input data
+
+
+inital state  
+
+(on b a)^(ontable a)^(ontable c)^(ontable d)^(AE)
+
+Goal state
+
+
+(on c a)^(on b d)^(ontable a)^(ontable d)

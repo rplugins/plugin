@@ -1,0 +1,71 @@
+kiran@kiran-LIFEBOOK-A555:~/0LP1/LP1/09- heuristic BFS$ javac astar.java
+Note: astar.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+kiran@kiran-LIFEBOOK-A555:~/0LP1/LP1/09- heuristic BFS$ java astar
+enter the number of vertices
+4
+Enter the vertex and heursitic value
+a
+3
+Enter no of children
+2
+Enter the child for a
+d
+Enter the value for a
+4
+Enter the child for a
+b
+Enter the value for a
+7
+Enter the vertex and heursitic value
+b
+6
+Enter no of children
+1
+Enter the child for b
+f
+Enter the value for b
+3
+Enter the vertex and heursitic value
+c
+5
+Enter no of children
+0
+Enter the vertex and heursitic value
+d
+8
+Enter no of children
+2
+Enter the child for d
+v
+Enter the value for d
+3
+Enter the child for d
+q
+Enter the value for d
+3
+a 3
+b 6
+c 5
+d 8
+
+ a d 4 b 7
+ b f 3
+ c
+ d v 3 q 3Enter the starting and end node
+a
+d
+4
+12
+7
+13
+b 13d 12
+mn is4
+
+min and start12d
+Open after removing
+
+closed after removing
+[a, d]
+[a, d]kiran@kiran-LIFEBOOK-A555:~/0LP1/LP1/09- heuristic BFS$ 
+

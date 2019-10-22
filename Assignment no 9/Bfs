@@ -1,0 +1,52 @@
+kiran@kiran-LIFEBOOK-A555:~/0LP1/LP1$ java Bfs
+enter the number of vertes
+4
+Enter the vertex and heursitic value
+a
+4
+Enter no of childrens
+3
+Enter the child for a
+b
+Enter the child for a
+c
+Enter the child for a
+d
+Enter the vertex and heursitic value
+b
+3
+Enter no of childrens
+1
+Enter the child for b
+g
+Enter the vertex and heursitic value
+c
+5
+Enter no of childrens
+0
+Enter the vertex and heursitic value
+d
+1
+Enter no of childrens
+1
+Enter the child for d
+h
+a 4
+b 3
+c 5
+d 1
+
+ a b c d
+ b g
+ c
+ d hEnter the starting and end node
+a
+d
+b 3c 5d 1
+min and start1d
+Open after removing
+
+b 3c 5closed after removing
+[a, d]
+[a, d]kiran@kiran-LIFEBOOK-A555:~/0LP1/LP1$ 
+
